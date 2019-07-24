@@ -1,19 +1,10 @@
-# Vuetify Alpha Theme
-Thank you for purchasing the Theme and supporting Vuetify.
-
-##### 📖 [Documentation](https://alpha-theme.vuetifyjs.com)
-##### 🆘 [Support](https://discord.gg/w2qKXtD)
-
-### Quick Start
-Unzip the `alpha-theme-release.zip` file into any directory. Copy your theme of choice and from the cli:
-
 ```bash
 cd path/to/project
 yarn
 yarn serve
 ```
 
-### Alpha Feature Highlights
+### Feature Highlights
 - Build with [vue-cli-3](https://cli.vuejs.org/)
 - Integrated Packages
   - **[vue-router](https://router.vuejs.org/en/)** - _Application Routing_
